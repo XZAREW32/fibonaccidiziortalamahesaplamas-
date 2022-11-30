@@ -1,4 +1,25 @@
 # fibonaccidiziortalamahesaplamas-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Console.Write("Sayı: ");
             double length = Convert.ToInt32(Console.ReadLine());
             int a = 0;
