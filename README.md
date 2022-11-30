@@ -1,6 +1,4 @@
 # fibonaccidiziortalamahesaplamas-
-//Kulanıcıdan alınan derinliğe göre fibonacci serisindeki rakamların ortalamasını alıp ekrana yazdıran uygulamayı yazınız.
-
  Console.Write("Sayı: ");
             double length = Convert.ToInt32(Console.ReadLine());
             int a = 0;
@@ -16,5 +14,6 @@
             }
             double ortalama = toplam / length;
             Console.WriteLine($"Ortalama = {ortalama}");
-  Console.ReadLine();
+
+            Console.ReadLine();
         }
